@@ -1,0 +1,107 @@
+header {
+  background-image: url(Assets/Hero-bg.png);
+  min-height: 680px;
+  position: relative;
+}
+
+div {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+
+
+.logo {
+  color: #4E47FF;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 44px;
+  margin-top: 50px;
+}
+
+.first_div {
+  display: flex;
+
+}
+
+
+
+.btn {
+  background-color: #4E47FF;
+  height: 50px;
+  width: 120px;
+  margin-top: 50px;
+  color: white;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  border: none;
+  font-size: 14px;
+  justify-content: right;
+}
+
+.btn:hover {
+  color: rgb(0, 0, 0);
+  background-color: aqua;
+}
+
+.main_heading {
+  font-family: sans-serif;
+  font-size: 65px;
+  text-align: center;
+  font-weight: bold;
+  color: #252432;
+}
+
+
+
+.btn_2 {
+  background-color: #4E47FF;
+  color: white;
+  height: 50px;
+  width: 180px;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.btn_2 a {
+  position: relative;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.btn_2 {
+  position: absolute;
+  top: auto;
+  left: 42%;
+  bottom: 250px;
+}
+
+.content {
+  margin-left: 20px;
+  height: 200px;
+  width: 80%;
+  background-color: blueviolet;
+  display: block;
+  font-family: sans-serif;
+  display: flex;
+  margin: 0 140px;
+}
+
+.child-content {
+  display: flex;
+
+
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 100px;
+}
