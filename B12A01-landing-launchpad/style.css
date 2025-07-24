@@ -385,5 +385,7 @@ label {
 .last p {
   font-size: 60px;
   text-align: center;
-
+  font-family: sans-serif;
+  color: #646464;
+  margin-bottom: 100px;
 }
