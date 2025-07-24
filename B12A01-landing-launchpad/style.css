@@ -371,7 +371,7 @@ label {
   font-size: 50px;
 }
 
-.last {
+.last h6 {
   height: 400px;
   width: auto;
   font-size: 300px;
@@ -380,4 +380,10 @@ label {
   text-align: center;
   margin-top: 180px;
   color: #091974;
+}
+
+.last p {
+  font-size: 60px;
+  text-align: center;
+
 }
